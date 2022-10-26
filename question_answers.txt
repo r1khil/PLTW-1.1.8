@@ -1,0 +1,12 @@
+1) if the number the user gives is greater than 90, the print statement will print
+
+3) if the number the user gives is greater than 90, the print statement will print, if it is not greater than 90, it will print a different statement
+
+4) the output will be you can graduate
+
+6) the program will print Summer School? if the user is in 12th grade, has a grade lower than 75, and the course is required for graduation
+
+7) depending on the number the user gives, the program will print different statements
+
+8) this code is simpler compared to the last one because it required fewer nests and fewer lines of code
+
