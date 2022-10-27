@@ -10,3 +10,6 @@
 
 8) this code is simpler compared to the last one because it required fewer nests and fewer lines of code
 
+10/11) no. because the program checks first if the number the user gives is greater than 60, each input will be either a D.
+
+12) the days of the week will be printed, then the subjects will be printed after

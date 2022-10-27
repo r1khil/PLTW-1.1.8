@@ -1,0 +1,22 @@
+for each horizontal turtle
+    then for each vertical turtle
+        move each turtle forward
+        check for a collision and if collided
+            remove them from the list to stop them from moving
+
+
+###### code segment #####
+ht.forward(3)
+vt.forward(3)
+
+###### code segment #####
+for ht in horiz_turtles:
+for vt in vert_turtles:
+
+###### code segment #####
+vert_turtles.remove(vt)
+horiz_turtles.remove(ht) 
+
+###### code segment #####
+ if (abs(ht.xcor() - vt.xcor()) < 20):
+ if (abs(ht.ycor() - vt.ycor()) < 20):
